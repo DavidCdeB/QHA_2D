@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.6)  5 JUN 2018 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.6)  5 JUN 2018 17:34
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1164,7 +1164,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (./main.toc) [3
 
 ]
-<./EL_level/calcite_I_and_II_all_2_summary_better_plot.pdf, id=55, 519.29634pt 
+<./EL_level/calcite_I_and_II_all_2_summary_better_plot.pdf, id=62, 519.29634pt 
 x 361.09291pt>
 File: ./EL_level/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic file (t
 ype pdf)
@@ -1173,7 +1173,7 @@ Package pdftex.def Info: ./EL_level/calcite_I_and_II_all_2_summary_better_plot.
 pdf used on input line 282.
 (pdftex.def)             Requested size: 158.10286pt x 109.93758pt.
 
-<./EL_level/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=56, 516.4
+<./EL_level/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=63, 516.4
 8586pt x 361.09291pt>
 File: ./EL_level/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Graphic 
 file (type pdf)
@@ -1184,7 +1184,7 @@ P_vs_V.pdf used on input line 282.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./EL_level/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expression
-_with_analytic_intersection.pdf, id=57, 516.48586pt x 356.43488pt>
+_with_analytic_intersection.pdf, id=64, 516.48586pt x 356.43488pt>
 File: ./EL_level/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expre
 ssion_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1196,7 +1196,7 @@ delta_H_exact_expression_with_analytic_intersection.pdf used on input line 282.
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./EL_level/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expression
-_ALL_H.pdf, id=58, 516.48586pt x 356.43488pt>
+_ALL_H.pdf, id=65, 516.48586pt x 356.43488pt>
 File: ./EL_level/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expre
 ssion_ALL_H.pdf Graphic file (type pdf)
 
@@ -1226,7 +1226,7 @@ pdfTeX warning: pdflatex (file ./EL_level/calcite_I_and_II_all_2_summary_better
 _plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs with pa
 ge group included in a single page
 >]
-<./EL_plus_E0_level/calcite_I_and_II_all_2_summary_better_plot.pdf, id=351, 519
+<./EL_plus_E0_level/calcite_I_and_II_all_2_summary_better_plot.pdf, id=358, 519
 .93938pt x 361.09291pt>
 File: ./EL_plus_E0_level/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic
  file (type pdf)
@@ -1237,7 +1237,7 @@ er_plot.pdf used on input line 295.
 (pdftex.def)             Requested size: 158.10286pt x 109.79982pt.
 
 <./EL_plus_E0_level/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=3
-52, 516.48586pt x 361.09291pt>
+59, 516.48586pt x 361.09291pt>
 File: ./EL_plus_E0_level/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf 
 Graphic file (type pdf)
 
@@ -1247,7 +1247,7 @@ er_plot_P_vs_V.pdf used on input line 295.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./EL_plus_E0_level/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
-pression_with_analytic_intersection.pdf, id=353, 516.48586pt x 356.43488pt>
+pression_with_analytic_intersection.pdf, id=360, 516.48586pt x 356.43488pt>
 File: ./EL_plus_E0_level/calcite_I_and_II_all_2_summary_better_plot_delta_H_exa
 ct_expression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1259,7 +1259,7 @@ ine 295.
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./EL_plus_E0_level/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
-pression_ALL_H.pdf, id=354, 516.48586pt x 356.43488pt>
+pression_ALL_H.pdf, id=361, 516.48586pt x 356.43488pt>
 File: ./EL_plus_E0_level/calcite_I_and_II_all_2_summary_better_plot_delta_H_exa
 ct_expression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1289,7 +1289,7 @@ pdfTeX warning: pdflatex (file ./EL_plus_E0_level/calcite_I_and_II_all_2_summar
 y_better_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs
  with page group included in a single page
 >]
-<./G_PT/10.00K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=655, 519.9393
+<./G_PT/10.00K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=662, 519.9393
 8pt x 361.98022pt>
 File: ./G_PT/10.00K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic file
  (type pdf)
@@ -1299,7 +1299,7 @@ Package pdftex.def Info: ./G_PT/10.00K/calcite_I_and_II_all_2_summary_better_pl
 ot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/10.00K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=656, 5
+<./G_PT/10.00K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=663, 5
 16.48586pt x 361.09291pt>
 File: ./G_PT/10.00K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Graph
 ic file (type pdf)
@@ -1310,7 +1310,7 @@ ot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/10.00K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_express
-ion_with_analytic_intersection.pdf, id=657, 516.48586pt x 356.43488pt>
+ion_with_analytic_intersection.pdf, id=664, 516.48586pt x 356.43488pt>
 File: ./G_PT/10.00K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
 pression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1322,7 +1322,7 @@ ot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line 3
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/10.00K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_express
-ion_ALL_H.pdf, id=658, 516.48586pt x 356.43488pt>
+ion_ALL_H.pdf, id=665, 516.48586pt x 356.43488pt>
 File: ./G_PT/10.00K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
 pression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1352,7 +1352,7 @@ pdfTeX warning: pdflatex (file ./G_PT/10.00K/calcite_I_and_II_all_2_summary_bet
 ter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs with
  page group included in a single page
 >]
-<./G_PT/30.10K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=971, 519.9393
+<./G_PT/30.10K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=978, 519.9393
 8pt x 361.98022pt>
 File: ./G_PT/30.10K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic file
  (type pdf)
@@ -1362,7 +1362,7 @@ Package pdftex.def Info: ./G_PT/30.10K/calcite_I_and_II_all_2_summary_better_pl
 ot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/30.10K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=972, 5
+<./G_PT/30.10K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=979, 5
 16.48586pt x 361.09291pt>
 File: ./G_PT/30.10K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Graph
 ic file (type pdf)
@@ -1373,7 +1373,7 @@ ot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/30.10K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_express
-ion_with_analytic_intersection.pdf, id=973, 516.48586pt x 356.43488pt>
+ion_with_analytic_intersection.pdf, id=980, 516.48586pt x 356.43488pt>
 File: ./G_PT/30.10K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
 pression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1385,7 +1385,7 @@ ot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line 3
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/30.10K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_express
-ion_ALL_H.pdf, id=974, 516.48586pt x 356.43488pt>
+ion_ALL_H.pdf, id=981, 516.48586pt x 356.43488pt>
 File: ./G_PT/30.10K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
 pression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1415,7 +1415,7 @@ pdfTeX warning: pdflatex (file ./G_PT/30.10K/calcite_I_and_II_all_2_summary_bet
 ter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs with
  page group included in a single page
 >]
-<./G_PT/50.20K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=1287, 519.939
+<./G_PT/50.20K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=1294, 519.939
 38pt x 361.98022pt>
 File: ./G_PT/50.20K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic file
  (type pdf)
@@ -1425,7 +1425,7 @@ Package pdftex.def Info: ./G_PT/50.20K/calcite_I_and_II_all_2_summary_better_pl
 ot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/50.20K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=1288, 
+<./G_PT/50.20K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=1295, 
 516.48586pt x 361.09291pt>
 File: ./G_PT/50.20K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Graph
 ic file (type pdf)
@@ -1436,7 +1436,7 @@ ot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/50.20K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_express
-ion_with_analytic_intersection.pdf, id=1289, 516.48586pt x 356.43488pt>
+ion_with_analytic_intersection.pdf, id=1296, 516.48586pt x 356.43488pt>
 File: ./G_PT/50.20K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
 pression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1448,7 +1448,7 @@ ot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line 3
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/50.20K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_express
-ion_ALL_H.pdf, id=1290, 516.48586pt x 356.43488pt>
+ion_ALL_H.pdf, id=1297, 516.48586pt x 356.43488pt>
 File: ./G_PT/50.20K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
 pression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1478,7 +1478,7 @@ pdfTeX warning: pdflatex (file ./G_PT/50.20K/calcite_I_and_II_all_2_summary_bet
 ter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs with
  page group included in a single page
 >]
-<./G_PT/70.30K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=1603, 519.939
+<./G_PT/70.30K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=1610, 519.939
 38pt x 361.98022pt>
 File: ./G_PT/70.30K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic file
  (type pdf)
@@ -1488,7 +1488,7 @@ Package pdftex.def Info: ./G_PT/70.30K/calcite_I_and_II_all_2_summary_better_pl
 ot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/70.30K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=1604, 
+<./G_PT/70.30K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=1611, 
 516.48586pt x 361.09291pt>
 File: ./G_PT/70.30K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Graph
 ic file (type pdf)
@@ -1499,7 +1499,7 @@ ot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/70.30K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_express
-ion_with_analytic_intersection.pdf, id=1605, 516.48586pt x 356.43488pt>
+ion_with_analytic_intersection.pdf, id=1612, 516.48586pt x 356.43488pt>
 File: ./G_PT/70.30K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
 pression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1511,7 +1511,7 @@ ot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line 3
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/70.30K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_express
-ion_ALL_H.pdf, id=1606, 516.48586pt x 356.43488pt>
+ion_ALL_H.pdf, id=1613, 516.48586pt x 356.43488pt>
 File: ./G_PT/70.30K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
 pression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1541,7 +1541,7 @@ pdfTeX warning: pdflatex (file ./G_PT/70.30K/calcite_I_and_II_all_2_summary_bet
 ter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs with
  page group included in a single page
 >]
-<./G_PT/90.40K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=1918, 519.939
+<./G_PT/90.40K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=1925, 519.939
 38pt x 361.98022pt>
 File: ./G_PT/90.40K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic file
  (type pdf)
@@ -1551,7 +1551,7 @@ Package pdftex.def Info: ./G_PT/90.40K/calcite_I_and_II_all_2_summary_better_pl
 ot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/90.40K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=1919, 
+<./G_PT/90.40K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=1926, 
 516.48586pt x 361.09291pt>
 File: ./G_PT/90.40K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Graph
 ic file (type pdf)
@@ -1562,7 +1562,7 @@ ot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/90.40K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_express
-ion_with_analytic_intersection.pdf, id=1920, 516.48586pt x 356.43488pt>
+ion_with_analytic_intersection.pdf, id=1927, 516.48586pt x 356.43488pt>
 File: ./G_PT/90.40K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
 pression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1574,7 +1574,7 @@ ot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line 3
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/90.40K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_express
-ion_ALL_H.pdf, id=1921, 516.48586pt x 356.43488pt>
+ion_ALL_H.pdf, id=1928, 516.48586pt x 356.43488pt>
 File: ./G_PT/90.40K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_ex
 pression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1604,7 +1604,7 @@ pdfTeX warning: pdflatex (file ./G_PT/90.40K/calcite_I_and_II_all_2_summary_bet
 ter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs with
  page group included in a single page
 >]
-<./G_PT/110.51K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=2234, 519.93
+<./G_PT/110.51K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=2241, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/110.51K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -1614,7 +1614,7 @@ Package pdftex.def Info: ./G_PT/110.51K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/110.51K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=2235,
+<./G_PT/110.51K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=2242,
  516.48586pt x 361.09291pt>
 File: ./G_PT/110.51K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -1625,7 +1625,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/110.51K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=2236, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=2243, 516.48586pt x 356.43488pt>
 File: ./G_PT/110.51K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1637,7 +1637,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/110.51K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=2237, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=2244, 516.48586pt x 356.43488pt>
 File: ./G_PT/110.51K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1667,7 +1667,7 @@ pdfTeX warning: pdflatex (file ./G_PT/110.51K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/130.61K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=2549, 519.93
+<./G_PT/130.61K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=2556, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/130.61K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -1677,7 +1677,7 @@ Package pdftex.def Info: ./G_PT/130.61K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/130.61K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=2550,
+<./G_PT/130.61K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=2557,
  516.48586pt x 361.09291pt>
 File: ./G_PT/130.61K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -1688,7 +1688,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/130.61K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=2551, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=2558, 516.48586pt x 356.43488pt>
 File: ./G_PT/130.61K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1700,7 +1700,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/130.61K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=2552, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=2559, 516.48586pt x 356.43488pt>
 File: ./G_PT/130.61K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1730,7 +1730,7 @@ pdfTeX warning: pdflatex (file ./G_PT/130.61K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/150.71K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=2864, 519.93
+<./G_PT/150.71K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=2872, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/150.71K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -1740,7 +1740,7 @@ Package pdftex.def Info: ./G_PT/150.71K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/150.71K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=2865,
+<./G_PT/150.71K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=2873,
  516.48586pt x 361.09291pt>
 File: ./G_PT/150.71K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -1751,7 +1751,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/150.71K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=2866, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=2874, 516.48586pt x 356.43488pt>
 File: ./G_PT/150.71K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1763,7 +1763,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/150.71K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=2867, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=2875, 516.48586pt x 356.43488pt>
 File: ./G_PT/150.71K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1793,7 +1793,7 @@ pdfTeX warning: pdflatex (file ./G_PT/150.71K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/170.81K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=3181, 519.93
+<./G_PT/170.81K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=3188, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/170.81K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -1803,7 +1803,7 @@ Package pdftex.def Info: ./G_PT/170.81K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/170.81K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=3182,
+<./G_PT/170.81K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=3189,
  516.48586pt x 361.09291pt>
 File: ./G_PT/170.81K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -1814,7 +1814,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/170.81K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=3183, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=3190, 516.48586pt x 356.43488pt>
 File: ./G_PT/170.81K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1826,7 +1826,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/170.81K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=3184, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=3191, 516.48586pt x 356.43488pt>
 File: ./G_PT/170.81K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1856,7 +1856,7 @@ pdfTeX warning: pdflatex (file ./G_PT/170.81K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/190.91K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=3496, 519.93
+<./G_PT/190.91K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=3503, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/190.91K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -1866,7 +1866,7 @@ Package pdftex.def Info: ./G_PT/190.91K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/190.91K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=3497,
+<./G_PT/190.91K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=3504,
  516.48586pt x 361.09291pt>
 File: ./G_PT/190.91K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -1877,7 +1877,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/190.91K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=3498, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=3505, 516.48586pt x 356.43488pt>
 File: ./G_PT/190.91K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1889,7 +1889,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/190.91K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=3499, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=3506, 516.48586pt x 356.43488pt>
 File: ./G_PT/190.91K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1919,7 +1919,7 @@ pdfTeX warning: pdflatex (file ./G_PT/190.91K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/211.01K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=3812, 519.93
+<./G_PT/211.01K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=3819, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/211.01K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -1929,7 +1929,7 @@ Package pdftex.def Info: ./G_PT/211.01K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/211.01K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=3813,
+<./G_PT/211.01K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=3820,
  516.48586pt x 361.09291pt>
 File: ./G_PT/211.01K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -1940,7 +1940,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/211.01K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=3814, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=3821, 516.48586pt x 356.43488pt>
 File: ./G_PT/211.01K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -1952,7 +1952,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/211.01K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=3815, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=3822, 516.48586pt x 356.43488pt>
 File: ./G_PT/211.01K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -1982,7 +1982,7 @@ pdfTeX warning: pdflatex (file ./G_PT/211.01K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/231.11K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=4127, 519.93
+<./G_PT/231.11K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=4134, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/231.11K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -1992,7 +1992,7 @@ Package pdftex.def Info: ./G_PT/231.11K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/231.11K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=4128,
+<./G_PT/231.11K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=4135,
  516.48586pt x 361.09291pt>
 File: ./G_PT/231.11K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -2003,7 +2003,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/231.11K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=4129, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=4136, 516.48586pt x 356.43488pt>
 File: ./G_PT/231.11K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -2015,7 +2015,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/231.11K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=4130, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=4137, 516.48586pt x 356.43488pt>
 File: ./G_PT/231.11K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -2045,7 +2045,7 @@ pdfTeX warning: pdflatex (file ./G_PT/231.11K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/251.21K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=4443, 519.93
+<./G_PT/251.21K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=4450, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/251.21K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -2055,7 +2055,7 @@ Package pdftex.def Info: ./G_PT/251.21K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/251.21K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=4444,
+<./G_PT/251.21K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=4451,
  516.48586pt x 361.09291pt>
 File: ./G_PT/251.21K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -2066,7 +2066,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/251.21K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=4445, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=4452, 516.48586pt x 356.43488pt>
 File: ./G_PT/251.21K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -2078,7 +2078,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/251.21K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=4446, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=4453, 516.48586pt x 356.43488pt>
 File: ./G_PT/251.21K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -2108,7 +2108,7 @@ pdfTeX warning: pdflatex (file ./G_PT/251.21K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/271.31K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=4758, 519.93
+<./G_PT/271.31K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=4765, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/271.31K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -2118,7 +2118,7 @@ Package pdftex.def Info: ./G_PT/271.31K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/271.31K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=4759,
+<./G_PT/271.31K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=4766,
  516.48586pt x 361.09291pt>
 File: ./G_PT/271.31K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -2129,7 +2129,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/271.31K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=4760, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=4767, 516.48586pt x 356.43488pt>
 File: ./G_PT/271.31K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -2141,7 +2141,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/271.31K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=4761, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=4768, 516.48586pt x 356.43488pt>
 File: ./G_PT/271.31K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -2171,7 +2171,7 @@ pdfTeX warning: pdflatex (file ./G_PT/271.31K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=5074, 519.93
+<./G_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=5081, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -2181,7 +2181,7 @@ Package pdftex.def Info: ./G_PT/291.41K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=5075,
+<./G_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=5082,
  516.48586pt x 361.09291pt>
 File: ./G_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -2192,7 +2192,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=5076, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=5083, 516.48586pt x 356.43488pt>
 File: ./G_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -2204,7 +2204,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=5077, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=5084, 516.48586pt x 356.43488pt>
 File: ./G_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -2234,7 +2234,7 @@ pdfTeX warning: pdflatex (file ./G_PT/291.41K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=5390, 519.93
+<./G_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=5397, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -2244,7 +2244,7 @@ Package pdftex.def Info: ./G_PT/311.52K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=5391,
+<./G_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=5398,
  516.48586pt x 361.09291pt>
 File: ./G_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -2255,7 +2255,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=5392, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=5399, 516.48586pt x 356.43488pt>
 File: ./G_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -2267,7 +2267,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=5393, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=5400, 516.48586pt x 356.43488pt>
 File: ./G_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -2297,7 +2297,7 @@ pdfTeX warning: pdflatex (file ./G_PT/311.52K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/331.62K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=5705, 519.93
+<./G_PT/331.62K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=5712, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/331.62K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -2307,7 +2307,7 @@ Package pdftex.def Info: ./G_PT/331.62K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/331.62K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=5706,
+<./G_PT/331.62K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=5713,
  516.48586pt x 361.09291pt>
 File: ./G_PT/331.62K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -2318,7 +2318,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/331.62K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=5707, 516.48586pt x 356.43488pt>
+sion_with_analytic_intersection.pdf, id=5714, 516.48586pt x 356.43488pt>
 File: ./G_PT/331.62K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -2330,7 +2330,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 109.10678pt.
 
 <./G_PT/331.62K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=5708, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=5715, 516.48586pt x 356.43488pt>
 File: ./G_PT/331.62K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -2360,7 +2360,7 @@ pdfTeX warning: pdflatex (file ./G_PT/331.62K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
 >]
-<./G_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6021, 519.93
+<./G_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6028, 519.93
 938pt x 361.98022pt>
 File: ./G_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic fil
 e (type pdf)
@@ -2370,7 +2370,7 @@ Package pdftex.def Info: ./G_PT/351.72K/calcite_I_and_II_all_2_summary_better_p
 lot.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.06963pt.
 
-<./G_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=6022,
+<./G_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf, id=6029,
  516.48586pt x 361.09291pt>
 File: ./G_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot_P_vs_V.pdf Grap
 hic file (type pdf)
@@ -2381,7 +2381,7 @@ lot_P_vs_V.pdf used on input line 317.
 (pdftex.def)             Requested size: 158.10286pt x 110.53264pt.
 
 <./G_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_with_analytic_intersection.pdf, id=6023, 516.48586pt x 1302.05281pt>
+sion_with_analytic_intersection.pdf, id=6030, 516.48586pt x 1302.05281pt>
 File: ./G_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_with_analytic_intersection.pdf Graphic file (type pdf)
 
@@ -2393,7 +2393,7 @@ lot_delta_H_exact_expression_with_analytic_intersection.pdf used on input line
 (pdftex.def)             Requested size: 158.10286pt x 398.56595pt.
 
 <./G_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=6024, 516.48586pt x 356.43488pt>
+sion_ALL_H.pdf, id=6031, 516.48586pt x 356.43488pt>
 File: ./G_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -2454,7 +2454,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (./main.toc) [24
 
 ]
-<./ET/291.41K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6341, 516.4858
+<./ET/291.41K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6349, 516.4858
 6pt x 361.09291pt>
 File: ./ET/291.41K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic file 
 (type pdf)
@@ -2464,7 +2464,7 @@ Package pdftex.def Info: ./ET/291.41K/calcite_I_and_II_all_2_summary_better_plo
 t.pdf used on input line 379.
 (pdftex.def)             Requested size: 80.66382pt x 56.39307pt.
 
-<./TS/291.41K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6342, 516.4858
+<./TS/291.41K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6350, 516.4858
 6pt x 361.09291pt>
 File: ./TS/291.41K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic file 
 (type pdf)
@@ -2474,7 +2474,7 @@ Package pdftex.def Info: ./TS/291.41K/calcite_I_and_II_all_2_summary_better_plo
 t.pdf used on input line 379.
 (pdftex.def)             Requested size: 80.66382pt x 56.39307pt.
 
-<./ET/311.52K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6343, 516.4858
+<./ET/311.52K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6351, 516.4858
 6pt x 361.09291pt>
 File: ./ET/311.52K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic file 
 (type pdf)
@@ -2491,7 +2491,7 @@ Package pdftex.def Info: ./ET/311.52K/calcite_I_and_II_all_2_summary_better_plo
 t.pdf used on input line 379.
 (pdftex.def)             Requested size: 80.66382pt x 56.39307pt.
 
-<./ET/331.62K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6344, 516.4858
+<./ET/331.62K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6352, 516.4858
 6pt x 361.09291pt>
 File: ./ET/331.62K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic file 
 (type pdf)
@@ -2508,7 +2508,7 @@ Package pdftex.def Info: ./ET/331.62K/calcite_I_and_II_all_2_summary_better_plo
 t.pdf used on input line 379.
 (pdftex.def)             Requested size: 80.66382pt x 56.39307pt.
 
-<./ET/351.72K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6345, 516.4858
+<./ET/351.72K/calcite_I_and_II_all_2_summary_better_plot.pdf, id=6353, 516.4858
 6pt x 361.09291pt>
 File: ./ET/351.72K/calcite_I_and_II_all_2_summary_better_plot.pdf Graphic file 
 (type pdf)
@@ -2560,7 +2560,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ]
 <./H_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=6732, 516.48586pt x 361.09291pt>
+sion_ALL_H.pdf, id=6741, 516.48586pt x 361.09291pt>
 File: ./H_PT/291.41K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -2571,7 +2571,7 @@ lot_delta_H_exact_expression_ALL_H.pdf used on input line 396.
 (pdftex.def)             Requested size: 112.93132pt x 78.9503pt.
 
 <./H_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=6733, 516.48586pt x 361.09291pt>
+sion_ALL_H.pdf, id=6742, 516.48586pt x 361.09291pt>
 File: ./H_PT/311.52K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -2582,7 +2582,7 @@ lot_delta_H_exact_expression_ALL_H.pdf used on input line 396.
 (pdftex.def)             Requested size: 112.93132pt x 78.9503pt.
 
 <./H_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_expres
-sion_ALL_H.pdf, id=6734, 516.48586pt x 361.09291pt>
+sion_ALL_H.pdf, id=6743, 516.48586pt x 361.09291pt>
 File: ./H_PT/351.72K/calcite_I_and_II_all_2_summary_better_plot_delta_H_exact_e
 xpression_ALL_H.pdf Graphic file (type pdf)
 
@@ -2606,14 +2606,17 @@ ession_ALL_H.pdf
 pdfTeX warning: pdflatex (file ./H_PT/351.72K/calcite_I_and_II_all_2_summary_be
 tter_plot_delta_H_exact_expression_ALL_H.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
->] <./calcite_I_and_II_phase_boundary.pdf, id=6987, 358.82721pt x 325.5564pt>
+>] (./main.toc) [28
+
+]
+<./calcite_I_and_II_phase_boundary.pdf, id=7005, 358.82721pt x 325.5564pt>
 File: ./calcite_I_and_II_phase_boundary.pdf Graphic file (type pdf)
 
 <use ./calcite_I_and_II_phase_boundary.pdf>
 Package pdftex.def Info: ./calcite_I_and_II_phase_boundary.pdf used on input li
-ne 407.
-(pdftex.def)             Requested size: 107.55333pt x 97.57825pt.
- [28
+ne 409.
+(pdftex.def)             Requested size: 215.10196pt x 195.16147pt.
+ [29
 
  <./calcite_I_and_II_phase_boundary.pdf>]
 \tf@nav=\write7
@@ -2625,26 +2628,26 @@ ne 407.
 \tf@snm=\write9
 \openout9 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 409.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 409.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 411.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 411.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 409.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 409.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 411.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 411.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6E880069EECE4395C4CD10F23D2516D3;201.
+(rerunfilecheck)             Checksum: 5FB21A1332FE0356A62085E8BFA5EB84;250.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 409.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 411.
  ) 
 Here is how much of TeX's memory you used:
- 21759 strings out of 493033
- 422699 string characters out of 32384146
- 500820 words of memory out of 5000000
- 24668 multiletter control sequences out of 15000+600000
- 12605 words of font info for 46 fonts, out of 8000000 for 9000
+ 21775 strings out of 493033
+ 422851 string characters out of 32384146
+ 500858 words of memory out of 5000000
+ 24677 multiletter control sequences out of 15000+600000
+ 13312 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,11n,55p,1044b,1116s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
@@ -2655,10 +2658,10 @@ sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on main.pdf (28 pages, 1832950 bytes).
+Output written on main.pdf (29 pages, 1834420 bytes).
 PDF statistics:
- 7069 PDF objects out of 7423 (max. 8388607)
- 1045 compressed objects within 11 object streams
- 63 named destinations out of 1000 (max. 500000)
- 512 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 7088 PDF objects out of 7423 (max. 8388607)
+ 1063 compressed objects within 11 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 520 words of extra memory for PDF output out of 10000 (max. 10000000)
 
