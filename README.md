@@ -10,7 +10,7 @@
 2. [What is the quasi-harmonic approximation ?](#example2)
 
 
-## What is the QHA program ?
+## What is the QHA program ? <a name="example"></a>
  
  `QHA_2D` is a program for computational chemistry and physics that performs the quasi-harmonic approximation reading the frequencies at each volume calculated with [CRYSTAL](http://www.crystal.unito.it/index.php). 
  
@@ -33,7 +33,7 @@
 The program was developed as part of [David Carrasco de Busturia PhD project](https://www.imperial.ac.uk/people/d.carrasco-de-busturia/) at [Prof. Nicholas Harrison's Computational Materials Science Group](http://www.imperial.ac.uk/computational-materials-science/), Imperial College London. The program was used to investigate the phase diagram and phase transitions mechanisms on the calcium carbonate system.
 
 
-## What is the quasi-harmonic approximation ?
+## What is the quasi-harmonic approximation ?<a name="example2"></a>
 
 Since the birth of quantum chemistry, almost every calculation was performed in the athermal limit (0K) and no pressure effects were considered (0Pa).
 One of the most exciting challenges in an _ab intio_ calculation is to obtain information of the system at a finite temperature and pressure. This allow us to obtain a more realistic picture of the system in the everyday world, where temperature and pressure cannot be neglected and are indeed the driving force for many transformations in nature.
