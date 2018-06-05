@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{$F(V)$, $G(P)$ and pressure of intersection. Thermal evolution}{3}{0}{1}
+\beamer@sectionintoc {2}{Shapes of $G$, $F$, $\mathcal {E}$}{24}{0}{2}
+\beamer@sectionintoc {3}{Shape of $H(P;T)$}{26}{0}{3}
