@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [What is the QHA program ?](#What is the QHA program ?)
-- [What is the Quasi-harmonic approximation ?](#What is the Quasi-harmonic approximation ?)
+- [What is the quasi-harmonic approximation ?](#What is the quasi-harmonic approximation ?)
 
 
 ## What is the `QHA_2D` program ?
