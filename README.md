@@ -4,12 +4,13 @@
 
 ## Table of Contents
 
-- [What is the `QHA` program ?](#What is the `QHA` program ?)
+- [What is the QHA program ?](#What is the QHA program ?)
+- [What is the Quasi-harmonic approximation ?](#What is the Quasi-harmonic approximation ?)
 
 
 ## What is the `QHA_2D` program ?
  
- `QHA` is a program for computational chemistry and physics that performs the quasi-harmonic approximation reading the frequencies at each volume calculated with [CRYSTAL](http://www.crystal.unito.it/index.php). 
+ `QHA_2D` is a program for computational chemistry and physics that performs the quasi-harmonic approximation reading the frequencies at each volume calculated with [CRYSTAL](http://www.crystal.unito.it/index.php). 
  
 * Extracts all the frequencies within all the **k** points in the supercell for a given volume.
 
@@ -30,7 +31,7 @@
 The program was developed as part of [David Carrasco de Busturia PhD project](https://www.imperial.ac.uk/people/d.carrasco-de-busturia/) at [Prof. Nicholas Harrison's Computational Materials Science Group](http://www.imperial.ac.uk/computational-materials-science/), Imperial College London. The program was used to investigate the phase diagram and phase transitions mechanisms on the calcium carbonate system.
 
 
-# 1. What is the quasi-harmonic approximation ?
+## What is the quasi-harmonic approximation ?
 
 Since the birth of quantum chemistry, almost every calculation was performed in the athermal limit (0K) and no pressure effects were considered (0Pa).
 One of the most exciting challenges in an _ab intio_ calculation is to obtain information of the system at a finite temperature and pressure. This allow us to obtain a more realistic picture of the system in the everyday world, where temperature and pressure cannot be neglected and are indeed the driving force for many transformations in nature.
@@ -49,6 +50,7 @@ On the contrary, the inclusion of temperature is not so straightforward to imple
 Following the harmonic approximation (HA) formalism,
 the lattice dynamics of crystal vibrations (i.e. phonons) are calculated at
 each volume.
+
 The HA indeed presents serious limitations that arise
 from the fact that
 only constant volume quantities
