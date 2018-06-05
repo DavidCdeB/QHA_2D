@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-- [What is the QHA program ?](#What is the QHA program ?)
-- [What is the quasi-harmonic approximation ?](#What is the quasi-harmonic approximation ?)
+- [What is the QHA program ?](#WhatisQHA)
+- [What is the quasi-harmonic approximation ?](#Whatisquasi)
 
 
 ## What is the QHA program ?
