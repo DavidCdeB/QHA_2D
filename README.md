@@ -8,6 +8,8 @@
 - [What is the quasi-harmonic approximation ?](#Whatisquasi) -->
 1. [What is the QHA program ?](#example)
 2. [What is the quasi-harmonic approximation ?](#example2)
+3. [## Power of the quasi-harmonic approximation](#example3)
+4. [## Why is `QHA_2D` useful ?](#example4)
 
 <a name="example"></a>
 ## What is the QHA program ?
@@ -66,3 +68,24 @@ by maintaining the same harmonic expression
 but introducing an explicit dependence of vibration phonon frequencies
 on volume.
 For a more detailed explanation, please check the pdf in this repository.
+
+<a name="example3"></a>
+## Power of the quasi-harmonic approximation
+
+By implementing a quasi-harmonic approximation framework we are able to calculate the **phase diagram** of a solid substance (like the one shown in the above figure) and the **thermodynamic stability** of different polymorphs, without the need of running computationally expensive __ab initio__ molecular dynamics calculations. In addition, this leads to the exploration of **phase transitions** at a fnite temperature and pressure.
+
+
+<a name="example4"></a>
+## Why is `QHA_2D` useful ?
+
+The actual version of CRYSTAL17 does perform an atomated quasi-harmonic approximation calculation for a given set of volumes. However, the QHA built-in module in CRYSTAL presents some deficiencies:
+
+* If the phase transition is driven by a soft phonon mode, i.e. a phonon mode that becomes negative at a certain volume constraint, the `QHA` module in CRYSTAL will give some problems.
+
+* Unfortunalety, the optimization at a constant volume is performed within the supercell scheme. If the supercell is big, (as it should be in order to ensure convergence the entropy), this might leads to an optimization porcess which is without doubt, more difficult in the supercell scheme: the cell is bigger, there are more atoms, and this can lead to convergence problems, or flase minima.
+
+* Not relevant (unwanted) supercell phase transitions as a consequence of the optimization being performed in the supercell.
+   
+* Ideally, CRYSTAL should perform the optimization in the the primitive cell prior to making the supercell for the phonons calculation at a finite **k** point, but this is not so trivial to implement in the main code, according to the developers. Hopefully, this will be taken into account in future versions of the code. But for the moment, the `QHA_2D` code presented in this repository is an easy and effective solution for evaluating thermodynamic properties of crystals at a finite temperature and pressure (the real world).
+
+
