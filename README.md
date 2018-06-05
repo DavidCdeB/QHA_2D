@@ -22,7 +22,7 @@ Merging `Automating_QHA_plots` and `QHA_step_clean`
 
 5. Outputs the pressure-temperature phase diagram for the thermodynamic phase stability of both solid phases: 
 
-<img src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/PT_phase_Boundary_edit.png" width="256" height="256" title="Github Logo">
+<img  align="center" src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/PT_phase_Boundary_edit.png" width="256" height="256" title="Github Logo">
 
 
  
