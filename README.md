@@ -88,46 +88,26 @@ The actual version of CRYSTAL17 does perform an atomated quasi-harmonic approxim
 * Ideally, CRYSTAL should perform the optimization in the the primitive cell prior to making the supercell for the phonons calculation at a finite **k** point, but this is not so trivial to implement in the main code, according to the developers. Hopefully, this will be taken into account in future versions of the code. But for the moment, the `QHA_2D` code presented in this repository is an easy and effective solution for evaluating thermodynamic properties of crystals at a finite temperature and pressure (the real world).
 
 <a name="example5"></a>
-## 5. Files needed for running `QHA_2D`
+## Files needed for running `QHA_2D`
  
 
-Say you want to compute the pressure-temperature phase diagram of two
-solid phases I and II.
+* Say you want to compute the pressure-temperature phase diagram of two
+sold phases I and II.
  `QHA_2D` requires the frequency calculation outputs at each volume, for each of the two phases.
 These frequencies calculations can be either in the Gamma point or at finite **k** points.
 
+* The name of all these frequency outputs have to end as `*.out`
 
- * If the `EOS` calculation was performed over 11 volumes (the default), you should run 11 `SCELPHONO` outputs:
- 
- ```
- SCELPHONO
- [supercell-matrix]
- FREQCALC
- NOINTENS
- NOOPTGEOM
- DISPERSI
- RESTART
- TEMPERAT
- [range-of-temperatures-desired]
- END
- END
- ```
- The name of all these 11 outputs have to end as `*T.out`
- Please ensure that you are using a sufficient big supercell for the entropy to be converged with the number of **k** points.
+* Please ensure that you are using a sufficient big supercell for the entropy to be converged with the number of **k** points (mention the other code to sort out the supercell expansion matrix).
 
-## 6. Data Flow
-
-The input files needed, program scripts and results are summarized in this flow chart:
-
-![Data flow](https://github.com/DavidCdeB/QHA/blob/master/Images_for_README_md/data_Flow3_svg_from_pdf.png)
-
-# 7. How to run `QHA`
+## How to run `QHA`
 
 * Get the code: `git clone https://github.com/DavidCdeB/QHA_2D`
 * Give permissions to all the scripts: `chmod u+x *.sh *.py`
 * Create the `Files_Outputs` folder inside the `QHA_2D` folder that has just been cloned: `cd ./QHA_2D && mkdir Files_Outputs`
 * Create the folders that will contain the constant-volume frequency outputs for each phase: `mkdir Calcite_I && mkdir Calcite II`
 * Copy all the frequencies outputs for each volume, for each phase, to the folders `Calcite_I` and `Calcite_II`. For example, `Calcite_I` folder will contain the frequency output for each `j`-th volume for the Calcite I phase.
+* Remember that name of all these frequency outputs have to end as `*.out`
 * The file system at this point looks like the following:
 
 <p align="left">
@@ -151,18 +131,19 @@ To run, `QHA` requires Python with certain packages:
 
 * Standard `bash` version in your system.
 
-# 8. Test
+## Test
 
-Under the `Test` folder, you will find the program, the `EOS.out` and 11 scelphono outputs `*T.out` for Calcite I.
-If you run the program, you will obtain all the tables and 3D surface plots shown in the Data Flow chart.
+Under the `TEST` folder, you will find all the programs
+needed, together with a `Files_Outputs` folder with the frequency outputs of two phases: calcite I and calcite II.
+If you run the program, you will obtain the `main.pdf` with all the plots needed.
 
-# 9. How to cite
+## How to cite
 
 Please cite the following reference when using this code:
 
-de Busturia, D.C., Mallia, G. and Harrison, N. M. "Computed phase stability and phase transition mechanisms in CaCO3 at finite temperature and pressure" _In progress_
+Carrasco-Busturia, D., Erba, A., Mallia, G., Mellan, T. and Harrison, N. M. "Computed phase stability and phase transition mechanisms in CaCO3 at finite temperature and pressure" _In progress_
 
-# 10. Contributing
+## Contributing
 
 `QHA` is free software released under the Gnu Public Licence version 3. 
 All contributions to improve this code are more than welcome.
@@ -177,7 +158,7 @@ All contributions to improve this code are more than welcome.
     * If you think a new feature would be interesting, open an issue
     * If you need a particular feature for your project contact me directly.
   
- # 11. References
+## References
   
   [1] R. Car, M. Parrinello, Phys. Rev. Lett. 1985, 55, 2471
   
