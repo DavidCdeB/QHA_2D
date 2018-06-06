@@ -28,7 +28,7 @@
 
 <!--<img  align="center" src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/PT_phase_Boundary_edit.png" width="256" height="256" title="Github Logo"> -->
 <p align="center">
-  <img width="256" height="256" src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/PT_phase_Boundary_edit.png">
+  <img width="256" height="256" src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/PT_phase_Boundary_edit.svg">
 </p>
 
  
@@ -138,7 +138,7 @@ The input files needed, program scripts and results are summarized in this flow 
 The following is a summarized flow chart on the structure of codes:
 
 <p align="center">
-  <img src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/codes.png">
+  <img src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/codes.svg">
 </p>
 
 * Run `./boundary_1_node.sh`
