@@ -8,8 +8,8 @@
 - [What is the quasi-harmonic approximation ?](#Whatisquasi) -->
 1. [What is the QHA program ?](#example)
 2. [What is the quasi-harmonic approximation ?](#example2)
-3. [## Power of the quasi-harmonic approximation](#example3)
-4. [## Why is `QHA_2D` useful ?](#example4)
+3. [Power of the quasi-harmonic approximation](#example3)
+4. [Why is `QHA_2D` useful ?](#example4)
 
 <a name="example"></a>
 ## What is the QHA program ?
