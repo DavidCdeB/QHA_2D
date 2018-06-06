@@ -137,7 +137,7 @@ The input files needed, program scripts and results are summarized in this flow 
 The following is a summarized flow chart on the structure of codes:
 
 <p align="center">
-  <img width="456" height="456" src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/codes.svg">
+  <img width="556" height="556" src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/codes.svg">
 </p>
 
 * Run `./boundary_1_node.sh`
