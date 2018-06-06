@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="210mm"
-   viewBox="0 0 297 210"
+   width="94.540939mm"
+   height="194.38083mm"
+   viewBox="0 0 94.540939 194.38083"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (unknown)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0099697"
-     inkscape:cx="451.98031"
-     inkscape:cy="598.17998"
+     inkscape:zoom="0.85782461"
+     inkscape:cx="436.33853"
+     inkscape:cy="544.86359"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,11 @@
      inkscape:window-height="749"
      inkscape:window-x="172"
      inkscape:window-y="211"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -44,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,7 +56,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-87)">
+     transform="translate(-2.2302081,-88.512546)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -140,7 +144,7 @@
          id="tspan893"
          x="1.2586912"
          y="96.553398"
-         style="stroke-width:0.26458332px;-inkscape-font-specification:'Sans Bold';font-family:Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">File system:</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold';stroke-width:0.26458332px">File system:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -236,7 +240,7 @@
          id="tspan977-9">.</tspan><tspan
          sodipodi:role="line"
          x="54.498436"
-         y="256.24799"
+         y="256.24802"
          style="stroke-width:0.19928917px"
          id="tspan979-2" /></text>
   </g>
