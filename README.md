@@ -10,6 +10,13 @@
 2. [What is the quasi-harmonic approximation ?](#example2)
 3. [Power of the quasi-harmonic approximation](#example3)
 4. [Why is `QHA_2D` useful ?](#example4)
+5. [Files needed for running `QHA_2D`](#example5)
+6. [How to run `QHA_2D`](#example6)
+7. [Test](#example7)
+8. [How to cite](#example8)
+9. [Contributing](#example9)
+10. [References](#example10)
+
 
 <a name="example"></a>
 ## What is the QHA program ?
@@ -100,6 +107,7 @@ These frequencies calculations can be either in the Gamma point or at finite **k
 
 * Please ensure that you are using a sufficient big supercell for the entropy to be converged with the number of **k** points (mention the other code to sort out the supercell expansion matrix).
 
+<a name="example6"></a>
 ## How to run `QHA`
 
 * Get the code: `git clone https://github.com/DavidCdeB/QHA_2D`
@@ -131,18 +139,21 @@ To run, `QHA` requires Python with certain packages:
 
 * Standard `bash` version in your system.
 
+<a name="example7"></a>
 ## Test
 
 Under the `TEST` folder, you will find all the programs
 needed, together with a `Files_Outputs` folder with the frequency outputs of two phases: calcite I and calcite II.
 If you run the program, you will obtain the `main.pdf` with all the plots needed.
 
+<a name="example8"></a>
 ## How to cite
 
 Please cite the following reference when using this code:
 
 Carrasco-Busturia, D., Erba, A., Mallia, G., Mellan, T. and Harrison, N. M. "Computed phase stability and phase transition mechanisms in CaCO3 at finite temperature and pressure" _In progress_
 
+<a name="example9"></a>
 ## Contributing
 
 `QHA` is free software released under the Gnu Public Licence version 3. 
@@ -157,7 +168,8 @@ All contributions to improve this code are more than welcome.
     * If something should be improved, open an issue here on GitHub
     * If you think a new feature would be interesting, open an issue
     * If you need a particular feature for your project contact me directly.
-  
+
+<a name="example10"></a>  
 ## References
   
   [1] R. Car, M. Parrinello, Phys. Rev. Lett. 1985, 55, 2471
