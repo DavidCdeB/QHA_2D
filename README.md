@@ -130,14 +130,14 @@ The input files needed, program scripts and results are summarized in this flow 
 * Copy all the frequencies outputs for each volume, for each phase, to the folders `Calcite_I` and `Calcite_II`. For example, `Calcite_I` folder will contain the frequency output for each `j`-th volume for the Calcite I phase.
 * The file system at this point looks like the following:
 
-<p align="center">
-  <img src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/file_system.svg">
+<p align="left">
+  <img width="256" height="256" src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/file_system.svg">
 </p>
 
 The following is a summarized flow chart on the structure of codes:
 
 <p align="center">
-  <img src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/codes.svg">
+  <img width="256" height="256" src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/codes.svg">
 </p>
 
 * Run `./boundary_1_node.sh`
