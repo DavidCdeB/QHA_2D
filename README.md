@@ -132,7 +132,7 @@ The input files needed, program scripts and results are summarized in this flow 
 * The file system at this point looks like the following:
 
 <p align="center">
-  <img src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/file_system.png">
+  <img src="https://github.com/DavidCdeB/QHA_2D/blob/master/Images_for_README_md/file_system.svg">
 </p>
 
 The following is a summarized flow chart on the structure of codes:
