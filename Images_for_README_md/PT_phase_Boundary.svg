@@ -11,9 +11,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="836"
-   height="745.33331"
-   viewBox="0 0 836 745.33331"
+   width="476.6488"
+   height="432.45349"
+   viewBox="0 0 476.6488 432.45349"
    sodipodi:docname="PT_phase_Boundary.svg"
    inkscape:version="0.92.3 (unknown)">
   <metadata
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -332,15 +332,19 @@
      inkscape:window-height="941"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.112458"
-     inkscape:cx="389.39992"
-     inkscape:cy="516.49232"
-     inkscape:window-x="496"
+     inkscape:zoom="1.2398587"
+     inkscape:cx="167.07769"
+     inkscape:cy="237.93851"
+     inkscape:window-x="320"
      inkscape:window-y="199"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <g
-     transform="matrix(1.3333333,0,0,-1.3333333,170.85154,565.52173)"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,432.45348)"
      inkscape:label="calcite_I_and_II_phase_boundary"
      id="g943">
     <path
@@ -1260,21 +1264,21 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="326.09003"
-     y="330.6019"
+     x="155.23848"
+     y="197.53365"
      id="text819"><tspan
        sodipodi:role="line"
        id="tspan817"
-       x="326.09003"
-       y="330.6019">Phase 1</tspan></text>
+       x="155.23848"
+       y="197.53365">Phase 1</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="483.25937"
-     y="329.56549"
+     x="312.40784"
+     y="196.49724"
      id="text819-3"><tspan
        sodipodi:role="line"
        id="tspan817-6"
-       x="483.25937"
-       y="329.56549">Phase 2</tspan></text>
+       x="312.40784"
+       y="196.49724">Phase 2</tspan></text>
 </svg>
