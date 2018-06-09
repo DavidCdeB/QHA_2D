@@ -7,11 +7,18 @@ cp QHA_steping_stone.py  ./Files_Outputs/Calcite_I
 cp QHA_steping_stone.py  ./Files_Outputs/Calcite_II
 
 cd ./Files_Outputs/Calcite_I
+echo "
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+You are now perforing the QHA_steping_stone work for Calcite I"
 python QHA_steping_stone.py
 cd $ScriptDir
 
 cd ./Files_Outputs/Calcite_II
+echo "
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+You are now perforing the QHA_steping_stone work for Calcite II"
 python QHA_steping_stone.py
+cd $ScriptDir
 
 rm -Rf EL_level
 mkdir EL_level
