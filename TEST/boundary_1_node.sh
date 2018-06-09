@@ -295,6 +295,6 @@ python Phase_Boundary.py
 #mkdir PDF_summary
 #mv make_pdflatex.sh main.tex ./PDF_summary
 #cd ./PDF_summary
-#bash make_pdflatex.sh
+bash make_pdflatex.sh
 
 
