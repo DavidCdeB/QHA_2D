@@ -6,7 +6,7 @@
 
 <!-- - [What is the QHA program ?](#WhatisQHA)
 - [What is the quasi-harmonic approximation ?](#Whatisquasi) -->
-1. [What is the QHA program ?](#example)
+1. [What is the `QHA_2D` program ?](#example)
 2. [What is the quasi-harmonic approximation ?](#example2)
 3. [Power of the quasi-harmonic approximation](#example3)
 4. [Why is `QHA_2D` useful ?](#example4)
@@ -19,7 +19,7 @@
 
 
 <a name="example"></a>
-## What is the QHA program ?
+## What is the `QHA_2D` program ?
  
  `QHA_2D` is a program for computational chemistry and physics that performs the quasi-harmonic approximation reading the frequencies at each volume calculated with [CRYSTAL](http://www.crystal.unito.it/index.php). 
  
