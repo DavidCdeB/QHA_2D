@@ -2,7 +2,7 @@
 
 <!--Merging `Automating_QHA_plots` and `QHA_step_clean`-->
 
-# Table of Contents.
+# Table of Contents
 
 <!-- - [What is the QHA program ?](#WhatisQHA)
 - [What is the quasi-harmonic approximation ?](#Whatisquasi) -->
