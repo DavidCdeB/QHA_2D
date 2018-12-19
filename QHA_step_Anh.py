@@ -363,7 +363,11 @@ for Ts in Temps:
  shutil.move("./F_Anh_vs_V_%0.2fK.dat" %Ts, "./F_Anh_vs_V_%0.2fK" %Ts)
 
  V, F = np.loadtxt('../G_PT/F_vs_V_%0.2fK/F_vs_V_%0.2fK.dat' %(Ts, Ts), skiprows = 1).T
+ VOLUME_EACH, F_Anh = np.loadtxt('./F_Anh_vs_V_%0.2fK/F_Anh_vs_V_%0.2fK.dat'  %(Ts, Ts), skiprows = 1).T
+
  F_tot = F + F_Anh
+ print 'V = ', V
+ print 'VOLUME_EACH = ', VOLUME_EACH
  output_array_2 = np.vstack((VOLUME_EACH, F_tot)).T
 
  np.savetxt('F_tot_vs_V_%0.2fK.dat'  %Ts, output_array_2, header="Volume           F + F Anh at %0.2fK" %Ts, fmt="%0.13f")
